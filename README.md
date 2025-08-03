@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Phadatare</h1>
-<h3 align="center">A passionate Frontend & MERN Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Frontend & Java Developer from India 🇮🇳</h3>
 
 - 🎓 I’m currently pursuing **Computer Science And Business System** at **Kolhapur Institute of technology Kolhapur **  
 - 💻 I’m passionate about **web development**, especially with **React**, **Node.js**, **MongoDB**, and **Java**  
