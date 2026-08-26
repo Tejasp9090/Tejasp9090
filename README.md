@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejas Phadatare</h1>
+<h1 align="center">Hii 👋, I'm Tejas Phadatare</h1>
 
 
 
