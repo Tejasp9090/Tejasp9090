@@ -5,7 +5,7 @@
 Passionate about building real-world web applications, solving coding problems, and exploring Machine Learning, Generative AI, and modern software development.
 
 ## 🚀 Tech Stack
-- **Languages:** Java, Python, C
+- **Languages:** Python, java, C
 - **Frontend:** HTML, CSS, Next.js
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL, PostgreSQL, MongoDB
