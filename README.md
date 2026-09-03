@@ -14,7 +14,7 @@ Passionate about building real-world web applications, solving coding problems, 
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms
-- Machine Learning & Generative AI
+- Machine Learning & Generative AI,LLM
 
 ## 📫 Connect With Me
 - 📧 **Email:** tejasphadatare0217@gmail.com
