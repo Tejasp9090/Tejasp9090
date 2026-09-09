@@ -6,7 +6,7 @@ Passionate about building real-world web applications, solving coding problems, 
 
 ## 🚀 Tech Stack
 - **Languages:** Python, java, C
-- **Frontend:** HTML, CSS, Next.js
+- **Frontend:** HTML, CSS, Next.js,javascript
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, GitHub
