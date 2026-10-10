@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tejas Phadatare
 
-💻 Computer Science & Business Systems (CSBS) Graduate | Full-Stack Developer | AI/ML Enthusiast
+💻 Computer Science & Business Systems (CSBS) Graduate | Full-Stack Developer | AI/ML Enthusiast.
 
 Passionate about building real-world web applications, solving coding problems, and exploring Machine Learning, Generative AI, and modern software development.
 
